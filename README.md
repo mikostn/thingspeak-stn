@@ -19,6 +19,6 @@ docker exec -it thingspeak rake db:schema:load
 
 Now you should see thingspeak running on your http://dockerhost!
 
-
+see: https://github.com/Hadlock/thingspeak/blob/master/Dockerfile
 
 
